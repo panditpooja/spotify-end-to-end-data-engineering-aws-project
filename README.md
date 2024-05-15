@@ -18,11 +18,11 @@ This API contains information about music artists, albums and songs - [Spotify A
 6. **Amazon Athena:** Amazon Athena is an interactive query service that makes it easy to analyse data in Amazon S3 using standard SQL. You can use Athena to analyse data in your Glue Data Catalog or in other S3 buckets.
 
 ### Install Packages:
-'''
+```
 pip install pandas
 pip install numpy
 pip install spotipy
-'''
+```
 
 ### Project Execution Flow:
 Extract Data from API -> Lambda Trigger (Every 1 hour) -> Run Extract Code -> Store Raw Data -> Trigger Transform Function -> Transform Data And Load it -> Query Using Athena
