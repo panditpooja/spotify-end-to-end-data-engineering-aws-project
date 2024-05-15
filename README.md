@@ -26,3 +26,7 @@ pip install spotipy
 
 ### Project Execution Flow:
 Extract Data from API -> Lambda Trigger (Every 1 hour) -> Run Extract Code -> Store Raw Data -> Trigger Transform Function -> Transform Data And Load it -> Query Using Athena
+
+### Achievements:
+- Transformed Spotify data into actionable insights using Python, deployed it on AWS Cloud.
+- Streamlined Data Processing by 24.8% with Automated Data Ingestion from source to analytics-ready format using CloudWatch, Lambda, S3, and Athena to create an efficient ETL pipeline, enhancing scalability and efficiency.
