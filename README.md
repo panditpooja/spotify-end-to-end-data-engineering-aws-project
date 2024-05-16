@@ -1,7 +1,7 @@
 # Personal Project - ETL Data Pipeline on AWS Cloud: Orchestrating Spotify Data Flow with Python
 
 ### Introduction:
-In this project, I build an ETL (Extract, Transform, Load) pipeline using the Spotify API on AWS cloud. The pipeline will retrieve data from the Spotify API, transform it too a desired format and load it into an AWS data store.
+In this project, I build an ETL (Extract, Transform, Load) pipeline using the Spotify API on AWS cloud. The pipeline will retrieve data from the Spotify API, transform it to a desired format and load it into an AWS data store.
 
 ### Architecture:
 ![Architecture diagram](https://github.com/panditpooja/spotify-end-to-end-data-engineering-project/blob/dev/Spotify_Data_Pipeline_Architecture.PNG)
