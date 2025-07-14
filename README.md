@@ -30,3 +30,14 @@ Extract Data from API -> Lambda Trigger (Every 1 hour) -> Run Extract Code -> St
 ### Achievements:
 - Transformed Spotify data into actionable insights using Python, deployed it on AWS Cloud.
 - Streamlined Data Processing by 24.8% with Automated Data Ingestion from source to analytics-ready format using CloudWatch, Lambda, S3, and Athena to create an efficient ETL pipeline, enhancing scalability and efficiency.
+
+---
+
+## ✍️ Author
+
+**Pooja Pandit**  
+Master’s Student in Information Science (Machine Learning)  
+The University of Arizona  
+
+[![GitHub](https://img.shields.io/badge/GitHub-panditpooja-black?logo=github)](https://github.com/panditpooja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pooja--pandit-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-pandit-177978135/)  
